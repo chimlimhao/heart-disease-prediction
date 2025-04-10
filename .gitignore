@@ -1,0 +1,15 @@
+.qodo
+
+# Ignore all files in the dataset folder
+venv
+flagged
+
+
+# Ignore all files in the ads-clicks-prediction folder
+ads-clicks-prediction
+
+
+# Ignore all files in the heart-disease-prediction folder
+heart-disease-prediction/v1
+heart-disease-prediction-backup
+heart-disease-prediction.zip
