@@ -1,0 +1,24 @@
+# IDE and system files
+.qodo
+.DS_Store
+__pycache__/
+*.pyc
+
+# Development and backup folders
+venv/
+flagged/
+heart-disease-prediction/v1/
+heart-disease-prediction/v2/
+heart-disease-prediction/logistic-regression-for-heart-disease.ipynb
+heart-disease-prediction-backup/
+heart-disease-prediction.zip
+
+# Other projects
+ads-clicks-prediction/
+
+# Keep these files/folders
+!heart-disease-prediction/app.py
+!heart-disease-prediction/README.md
+!heart-disease-prediction/requirements.txt
+!heart-disease-prediction/models/
+!heart-disease-prediction/dataset/
